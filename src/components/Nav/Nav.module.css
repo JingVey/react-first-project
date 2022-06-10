@@ -3,10 +3,12 @@
   background-color: aquamarine;
 }
 
-.item{
+.item a{
   color: white;
+  text-decoration: none;
+  margin: 20px;
 }
 
-.item.active{
-  color: yellow;
+.item a.active{
+  color: blue;
 }
